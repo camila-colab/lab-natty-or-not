@@ -20,32 +20,40 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Gerador de arte Netty com IA ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto ultiliza a inteligência artificial para gerar obras de arte pérsonalizada e estilizadas de acordo com as preferencias do usuario.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+° IA Generativa: STABLE Diffusion
+°Ferramentas de design:copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Coletas de dados se refêrencia artísticas pelo usuario para trenar a IA.
+Utiliza um conjuto diverdificado de estilos para gerar imagens únicas.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+. Obras de arte personalizadas e de alta qualidade.
+. interface amigavel que permite ajustes em tempo rel em tempo real.
+. Grande variedade de estilos disponíveis.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar algo "Netty" com a IA foi um desafio imteressante. A IA permite uma flexibilidade incrível  na criaçõ artística, mas
+mas exige um bom conhecimento das ferramentas e um enteendimento claro das preferênciad de usuário
 
 ### Exemplos e Insigths
+. Humanização da Geração de Texto
+. Realismo nas Imagens Geradas
+. Narrativa Visual em Vídeos
+ Aqui está um breve texto 'natty' (natural):
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+**Título: Um Dia na Vida de Alice**
 
-## Links Interessantes
+Alice acordou com o som dos pássaros cantando suavemente lá fora. A luz do sol filtrava-se pelas cortinas, iluminando o quarto com uma calma serena. Ela se espreguiçou e sorriu, sentindo a promessa de um novo dia. Ao sair para o jardim, encontrou-se com o aroma fresco das flores e o murmúrio distante do riacho. Cada momento parecia preenchido com uma simplicidade encantadora, como se a natureza ao redor dela estivesse sussurrando segredos de paz e harmonia. Alice respirou fundo, pronta para abraçar as pequenas alegrias que o dia traria.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+![3 pessoas em reunião em uma empresa](https://github.com/user-attachments/assets/44be9a4b-fc9d-44b4-8fe4-113ddc40b97f)
+https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:4511974a-ca86-4589-9692-f5b8b6384936?category=media&tab=videos
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
+
